@@ -1,10 +1,6 @@
 # logMMSE
 A minimum-mean-square-error noise reduction algorithm implementation with Python
 
-e.g.
-
-
-
 #### *e.g.*
 ```shell
 $ python
